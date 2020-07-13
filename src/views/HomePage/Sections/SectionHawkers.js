@@ -65,7 +65,7 @@ export default function SectionHawkers() {
       />
       <CardMedia
         className={classes.media}
-        image="/static/images/cards/paella.jpg"
+        image="https://material-ui.com/static/images/cards/paella.jpg"
         title="Paella dish"
       />
       <CardContent>
