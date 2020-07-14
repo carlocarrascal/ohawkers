@@ -10,24 +10,23 @@ import { Grid } from "@material-ui/core";
 function HomePage(props) {
   return (
     <div>
-      <CssBaseline>
-        <Header />
-        <GridContainer>
-          <Grid item md={3}>
-            <SectionHawkers />
-          </Grid>
-          <Grid item md={3}>
-            <SectionHawkers />
-          </Grid>
-          <Grid item md={3}>
-            <SectionHawkers />
-          </Grid>
-          <Grid item md={3}>
-            <SectionHawkers />
-          </Grid>
-        </GridContainer>
-        <Footer />
-      </CssBaseline>
+      <CssBaseline />
+      <Header />
+      <GridContainer>
+        <Grid item md={3}>
+          <SectionHawkers />
+        </Grid>
+        <Grid item md={3}>
+          <SectionHawkers />
+        </Grid>
+        <Grid item md={3}>
+          <SectionHawkers />
+        </Grid>
+        <Grid item md={3}>
+          <SectionHawkers />
+        </Grid>
+      </GridContainer>
+      <Footer />
     </div>
   );
 }
