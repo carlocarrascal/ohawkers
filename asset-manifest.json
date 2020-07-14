@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/ohawkers/static/js/main.10be75fd.chunk.js",
-    "main.js.map": "/ohawkers/static/js/main.10be75fd.chunk.js.map",
+    "main.js": "/ohawkers/static/js/main.4d15122b.chunk.js",
+    "main.js.map": "/ohawkers/static/js/main.4d15122b.chunk.js.map",
     "runtime-main.js": "/ohawkers/static/js/runtime-main.8c982811.js",
     "runtime-main.js.map": "/ohawkers/static/js/runtime-main.8c982811.js.map",
-    "static/js/2.e4f96e67.chunk.js": "/ohawkers/static/js/2.e4f96e67.chunk.js",
-    "static/js/2.e4f96e67.chunk.js.map": "/ohawkers/static/js/2.e4f96e67.chunk.js.map",
+    "static/js/2.d2a427f8.chunk.js": "/ohawkers/static/js/2.d2a427f8.chunk.js",
+    "static/js/2.d2a427f8.chunk.js.map": "/ohawkers/static/js/2.d2a427f8.chunk.js.map",
     "index.html": "/ohawkers/index.html",
-    "precache-manifest.8fddee78ee447173e6283536810ec86f.js": "/ohawkers/precache-manifest.8fddee78ee447173e6283536810ec86f.js",
+    "precache-manifest.0f8ba032711543d44ddd6638a41c9277.js": "/ohawkers/precache-manifest.0f8ba032711543d44ddd6638a41c9277.js",
     "service-worker.js": "/ohawkers/service-worker.js",
-    "static/js/2.e4f96e67.chunk.js.LICENSE.txt": "/ohawkers/static/js/2.e4f96e67.chunk.js.LICENSE.txt"
+    "static/js/2.d2a427f8.chunk.js.LICENSE.txt": "/ohawkers/static/js/2.d2a427f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8c982811.js",
-    "static/js/2.e4f96e67.chunk.js",
-    "static/js/main.10be75fd.chunk.js"
+    "static/js/2.d2a427f8.chunk.js",
+    "static/js/main.4d15122b.chunk.js"
   ]
 }
